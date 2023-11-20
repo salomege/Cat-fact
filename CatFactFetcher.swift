@@ -5,7 +5,7 @@
 //  Created by salome on 20.11.23.
 //
 
-CatFactsFetcher.swift:import Foundation
+import Foundation
 
 public class CatFactsFetcher {
     public static func fetch(completion: @escaping (Result<CatFactResponse, Error>) -> Void) {
