@@ -1,6 +1,6 @@
 //
-//  CatFactViewController.swift
-//  Cat facts
+//  CatFact.swift
+//  CatFactsPackage
 //
 //  Created by salome on 20.11.23.
 //
@@ -12,6 +12,3 @@ public class SomeViewController {
         self.items = items
     }
 }
-
-
-
